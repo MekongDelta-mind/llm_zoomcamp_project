@@ -59,3 +59,6 @@ llm zoomcamp project
 
 --------
 
+
+`NOTE`:
+1. you have to uncomment the `data` from the `.gitignore` file when you take up whole of data.

@@ -1,0 +1,27 @@
+user_type,sub_section,sub_sub_section,question,answer
+buyers,top_queries,general,"I forgot my password to access GeM portal, how can I reset it?","Please follow following steps to reset your password on GeM portal:
+1. Kindly visit https://gem.gov.in/ and click on Login,
+2. Click on ""Forgot your Password"" link,
+3. Enter your User Id, kindly note that User Id is case sensitive,
+4. Type the Characters displayed in the captcha box, press SUBMIT,
+5. An E-mail will be sent to your registered E-mail ID with link to Reset password,
+6. Click on Reset Link in your E-mail, and Enter new password and confirm the same, Press SUBMIT.
+Kindly note that your Password must be of 8-20 characters- 1 upper case letter, 1 lower case letter, number, and a special character. "
+buyers,top_queries,general,I am a new buyer and wish to learn more about procurement process on GeM?,Detailed instructions are available in the form of Video Guides on GeM portal. Kindly refer to different aspects of buyer process on Buyer Videos . 
+buyers,top_queries,general,What could be the reason for variation in prices between GeM and other Marketplaces ? ,"The variation in retail price and GeM Price of a product could be due to under mentioned factors.
+1. The price offering on GeM are inclusive of all taxes.
+2. Product on GeM may have a different warranty period.
+3. Onsite warranty is offered for some products on GeM.
+4. Prices could also vary due to Payment Terms of the transaction. "
+buyers,top_queries,general,"Why am I unable to see the seller's name in the market, while searching for a product on GeM?","In order to avoid biases in the selection of seller, for a particular purchase, the seller's name is no longer disclosed on GeM until the Buyer makes a purchase decision. "
+buyers,top_queries,general,Is PAC option available for purchase through OEMs only or Resellers can also participate? ,"Yes, PAC purchase can be done from OEMs and Resellers both. "
+buyers,top_queries,general,What are the minimum delivery days during direct purchase? ,"The minimum and maximum number of delivery day(s) may vary, specific to the product and service category. "
+buyers,top_queries,general,What is concession on GST? ,Certain Buyer organizations are eligible for concession on GST if goods for which bids have been invited fall under classification of GST concession and the conditions for eligibility of concession are met by the institution. 
+buyers,top_queries,general,Why the Buyer is asked to choose between Direct Purchase or Bid/RA when 'Add to Cart' button is clicked? ,"This option is given to Buyers to understand their Intent of Buying so that Buyers can select and verify values for Golden Parameters to create Bid as per the specific requirement for procurement. For more info, please click on the document link ."
+buyers,top_queries,general,When would the Buyer claim concession on GST? ,"The Buyer would specify the concessional rate of GST while publishing the Bid. The concessional rate of GST, the relevant govt notification number and date would be mentioned in Bid Terms and conditions. "
+buyers,top_queries,general,"
+Where can a buyer find the innovative Startup products/services? ",Buyers can view the list of shortlisted innovative products/services on Startup Runway corner and can request the same for Trial. 
+buyers,top_queries,general,What's the grievance redressal mechanism on GeM? ,"In case of any grievance related to deviation / concern related to sellers, buyer can raise an Incident. Kindly refer to ""Incident"" tab under FAQ for more details. "
+buyers,top_queries,general,How can I request for Change in specification of existing category? ,Buyers can request for changes in existing category from Request Management available in their Dashboard. All such requests would be evaluated by GeM. 
+buyers,top_queries,general,How can I request for new category addition ? ,Buyers can request for new category addition online from Request Management available in their Dashboard. All such requests would be evaluated by GeM.
+buyers,top_queries,general,How can I update the Annual Procurement Plan of my Organization or department on GeM? ,The Buyers can upload the Annual Procurement Plan online through the Request Management available on their Dashboard. GeM would evaluate and consolidate the procurement plans received from the Buyers to create a forecast of the products/services required on GeM. 
