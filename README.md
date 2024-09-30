@@ -76,3 +76,7 @@ llm zoomcamp project
     data-source-1 - A description of what the notebook covers
 
 ```
+
+Future Improvements:
+1. Adding Vector Search using HF's open source models to make the contextual search important.
+2. 

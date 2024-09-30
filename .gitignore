@@ -1,7 +1,7 @@
 # Data
 # /data/
 
-.virtual_documents/
+virtual_documents/
 
 # Mac OS-specific storage files
 .DS_Store
